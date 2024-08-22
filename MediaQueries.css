@@ -1,0 +1,86 @@
+@media (max-width:500px) {
+    #h1-2 {
+        font-size: 30px;
+        /* margin-bottom: 1.5rem; */
+    }
+
+    .sigin,
+    #slct-lang,
+    #em,
+    #get-btn {
+        font-size: 13.2px;
+    }
+
+    .Net-logo {
+        font-size: 2rem;
+        margin-top: 5px;
+    }
+
+
+    #among {
+        margin-top: -10%;
+    }
+
+
+
+    .video-1 {
+        min-height: 200px;
+    }
+
+    li {
+        width: 100%;
+        font-size: 15px;
+
+    }
+
+    .faq-ans {
+        font-size: 15px;
+    }
+
+    .faq-btn {
+        font-size: 30px;
+        right: 10px;
+        top: 25px;
+    }
+}
+
+
+@media (max-width:1025px) {
+
+    .child2,
+    .child3,
+    .child4,
+    .child5 {
+        text-align: center;
+    }
+}
+
+
+@media (max-width:600px) {
+    .Net-logo {
+        height: 100px;
+        width: 80px;
+        /* border: 2px solid white; */
+        left: 0;
+
+    }
+
+    .Net-logo img {
+        margin-top: 10px;
+    }
+}
+
+@media (max-width:1000px) {
+    .anonymus2 {
+        height: 250px;
+        width: 300px;
+    }
+
+    .mobile {
+        bottom: -190px;
+    }
+
+    .main3 {
+        flex-wrap: wrap-reverse;
+    }
+}
